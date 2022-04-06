@@ -1,0 +1,34 @@
+.conatianer{
+    background-color: grey;
+    height: 300px;
+    width: 300px;
+}
+.red{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
+
+.blue{
+    background-color: blue;
+    height: 100px;
+    width: 100px; 
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+
+.yellow{
+    background-color: yellow;
+    height: 100px;
+    width: 100px; 
+    position: absolute;
+    left: 0%;
+    top: 0%;
+}
+body{
+    margin: 0;
+}
